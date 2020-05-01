@@ -1,0 +1,26 @@
+.siderContainer {
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #f5b041,#DF128F );
+  width: 100%;
+}
+
+.menu-list-container {
+    padding:15%;
+}
+
+.menu-list-container:active {
+    padding:15%;
+    background-color: #f88f38;
+    border-left: 2px solid #ffffff;
+}
+
+.menu-list-container:hover {
+    padding:15%;
+    background-color: #f88f38;
+    border-left: 2px solid #ffffff;
+}
+
+.menu-list {
+  width: 100%;
+  font-size: 20px;
+}
